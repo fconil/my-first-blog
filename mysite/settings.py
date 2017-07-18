@@ -25,7 +25,7 @@ SECRET_KEY = 'xuof_j_1ff^an%k6$1cq#d-6!f52f3e2)j(v)b_5j^sh($*4u('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fcodvpt.pythonanywhere.com']
 
 
 # Application definition
